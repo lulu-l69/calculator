@@ -1,6 +1,3 @@
-from math import gcd
-
-
 def addition():
     print("")
     add1 = input("First number to add: ")
@@ -73,3 +70,4 @@ def main():
 
 
 main()
+
